@@ -1,3 +1,3 @@
 package dog
 
-var DogName string = "Kukur"
+var DogName string = "dog"
